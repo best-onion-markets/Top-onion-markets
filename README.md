@@ -1,7 +1,7 @@
 <body>
     <header>
         <h1>Top Onion Darknet Markets 2025</h1>
-        https://github.com/best-onion-markets/Top-onion-markets/blob/main/10-ten-dnm.png
+        <img src="https://github.com/best-onion-markets/Top-onion-markets/blob/main/10-ten-dnm.png" alt="Top onion Market Homepage Interface" style="max-width:100%; height:auto;">
     </header>
     <section>
         <p>The darknet has been a space for anonymous transactions and untraceable exchanges. Over the years, the popularity of onion marketplaces has grown significantly. These markets operate on the Tor network, offering various illicit goods and services, but they also provide an essential service for those seeking privacy and anonymity. Below are some of the top onion darknet markets to keep an eye on in 2025.</p>
